@@ -2,7 +2,9 @@ Markdown: Basics
 ================
 #test
 4<5
+4&lt;5
 A&B
+A&amp;B
 
 Getting the Gist of Markdown's Formatting Syntax
 ------------------------------------------------
