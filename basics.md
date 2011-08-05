@@ -237,6 +237,10 @@ title 屬性是選擇性的，連結名稱可以用字母、數字和空格，�
 
 如果要建立一個已經格式化好的程式碼區塊，只要每行都縮排 4 個空格或是一個 tab 就可以了，而 `&`、`<` 和 `>` 也一樣會自動轉成 HTML 實體。
 
+Test：
+
+    Is here a table？
+
 Markdown:
 
     If you want your page to validate under XHTML 1.0 Strict,
